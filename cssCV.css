@@ -241,15 +241,6 @@ section > div{
         padding-left: 20px;
         margin-right: auto;
     }
-    .prez a{
-        border: 2px solid transparent;
-    }
-    .prez a:hover{
-        color: #f28835;
-        background-color: #fff;
-        border: 2px solid #f28835;
-        box-shadow: 0px 0px 20px #666;
-    }
     .exp-logo{
         flex: 0 0 10%;
     }
