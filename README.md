@@ -140,5 +140,4 @@
     <footer>
         <p><a href="https://www.pierre-giraud.com">©Pierre Giraud</a> 2020</p>
 		<p>Modifié par MANSUE Clément</p>
-    </footer>
-</body>
+    </footer> </body>
