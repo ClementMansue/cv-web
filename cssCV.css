@@ -22,7 +22,7 @@ a{
 /*HEADER & FOOTER*/
 header, footer{
     width: 100%;
-    padding: 20px 0px;
+    padding: 10px 0px;
     background: url("background.jpg") #4f4f4f;
     box-shadow: 0px 0px 15px #333;
 }
