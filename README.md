@@ -8,8 +8,7 @@
 <body>
     <header>
         <h1>CV de Clément Mansué</h1>
-    </header>
-    
+    </header> 
     <section>
         <div class="photo">
             <img src="" alt="Ma photo de profil">
@@ -44,7 +43,6 @@
             </div>
         </div>
     </section>
-    
     <section>
         <h2>Expériences professionnelles</h2>
         <div class="exp">
@@ -61,7 +59,6 @@
             </div>
         </div>
     </section>
-    
     <section>
         <h2>Formation</h2>
         <div class="exp">
@@ -89,7 +86,6 @@
             </div>
         </div>
     </section>
-    
     <section>
         <h2>Compétences</h2>
         <h3 class="h3gauche">Professionnelles</h3>
@@ -105,7 +101,6 @@
         <div class="comp">
             <p>C</p>
         </div>
-
         <h3 class="h3gauche">Personnelles</h3>
         <div class="comp2">
             <p>Créativité</p>
@@ -120,7 +115,6 @@
             <p>Pédagogie</p>
         </div>
     </section>
-    
     <section>
         <h2>Centres d'intérêt</h2>
         <figure class="interet">
@@ -136,8 +130,8 @@
             <figcaption>Manga</figcaption>
         </figure>
     </section>
-    
     <footer>
         <p><a href="https://www.pierre-giraud.com">©Pierre Giraud</a> 2020</p>
 		<p>Modifié par MANSUE Clément</p>
-    </footer> </body>
+    </footer> 
+</body>
