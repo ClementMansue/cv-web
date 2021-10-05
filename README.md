@@ -16,7 +16,7 @@
         <div class="prez">
             <h2>Qui suis-je ?</h2>
             <p>Actuellement en seconde année en DUT Informatiques à l'IUT A de Lille, ...</p>
-            <a href="CV-Clément_Mansué.pdf" download="CV">Télécharger mon CV</a>
+            <a href="CV-Clément_Mansué.pdf" download="CV-CM">Télécharger mon CV</a>
         </div>
         <div class="contact">
             <h2>Informations de contact</h2>
