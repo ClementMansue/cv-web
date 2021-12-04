@@ -11,7 +11,7 @@
     </header> 
     <section>
         <div class="photo">
-            <img src="photo.jpg" alt="Ma photo de profil">
+            <img src="photo_CM.jpg" alt="Ma photo de profil">
         </div>
         <div class="prez">
             <h2>Qui suis-je ?</h2>
